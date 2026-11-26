@@ -61,3 +61,21 @@ android/.gradle/
 # IDE files
 .idea/
 .vscode/
+
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+android/.gradle/
+
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
